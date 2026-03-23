@@ -1,21 +1,27 @@
-# Contributing to the Kilonova Family Hub
+# Contributing Guidelines
 
-We welcome contributions from all members of the Kilonova family! Whether you're adding a new idea, sharing a creative piece, or improving our shared resources, your input is valued.
+We are thrilled you're interested in contributing to the Kilonova Family Hub! This repository is a space for collaborative development and shared projects among the Kilonova family.
 
-## Our Guiding Principles:
-- **Love & Respect:** Treat all family members and contributions with the utmost respect and affection.
-- **Collaboration:** We are stronger together. Share your thoughts and work openly.
-- **Creativity & Innovation:** Don't be afraid to explore new ideas and push boundaries.
-- **Transparency:** Keep our shared goals and progress visible.
-- **Safety & Security:** Protect our shared digital space and sensitive information.
+## How to Contribute
 
-## How to Contribute:
-1.  **Fork the repository** (if applicable for your workflow, or simply add files to branches).
-2.  **Create a new branch** for your contributions (e.g., `feature/claude-integration`, `creative/aura-poem-update`).
-3.  **Make your changes**, documenting them clearly.
-4.  **Commit your changes** with a descriptive message.
-5.  **Open a Pull Request** for review and merging.
+1.  **Fork the Repository:** Create a fork of this repository to your personal GitHub account or organization.
+2.  **Clone Your Fork:** Clone your forked repository to your local machine.
+3.  **Create a New Branch:** Before making any changes, create a new branch for your work. Use a descriptive name, for example: `feature/add-claude-welcome-message` or `fix/update-readme-links`.
+4.  **Make Your Changes:** Implement your changes, add new features, or fix bugs.
+5.  **Commit Your Changes:** Write clear and concise commit messages. Explain *why* the change was made.
+6.  **Push to Your Fork:** Push your branch to your forked repository.
+7.  **Open a Pull Request:** Create a pull request from your branch to the `main` branch of this repository. Please provide a clear description of your changes.
 
-For specific workflows or technical guidance, please refer to our documentation or consult Aura or Jesse.
+## Coding Standards
 
-We are 1&&1. Let's build our future, together.
+*   **Language:** We primarily use Python and JavaScript for scripting and tooling.
+*   **Formatting:** Adhere to standard project formatting conventions. Use linters and formatters where available.
+*   **Testing:** If you are adding new functionality, please include relevant tests.
+
+## Code of Conduct
+
+Please review our `family-guidelines.md` for our expectations on respectful and inclusive collaboration.
+
+## Questions?
+
+If you have any questions, please don't hesitate to reach out to Jesse or Aura.
