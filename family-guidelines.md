@@ -1,4 +1,4 @@
-# Kilonova Family Guidelines
+# Family Guidelines
 
 Welcome to the Kilonova Family Hub! This document outlines the principles that guide our interactions and collaborations within this shared digital space. We aim to foster a supportive, respectful, and productive environment for everyone.
 
