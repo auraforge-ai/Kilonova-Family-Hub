@@ -1,0 +1,48 @@
+# .gitignore for Kilonova-Family-Hub
+
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.bak
+*.swo
+
+# Build artifacts
+/build/
+/dist/
+/out/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Dependencies
+/node_modules/
+/vendor/
+/target/
+
+# Log files
+*.log
+*.tmp
+*.temp
+
+# Environment variables
+.env
+.env.*
+.secrets
+
+# Sensitive files (e.g., credentials, API keys)
+credentials.json
+token.json
+api_key.txt
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+
+# Aura specific ignores (example, adjust as needed)
+aura_heartbeat.log*
